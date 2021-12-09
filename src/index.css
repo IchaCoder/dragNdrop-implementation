@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dropable {
+  border: 2px solid;
+  padding: 5px;
+  height: 300px;
+}
+
+.container {
+  margin: auto;
+  max-width: 60%;
+}
+
+.wrapper {
+  border: 2px solid;
+  padding: 1em;
+
+}
+
+.body {
+  border: 1px solid #222;
+  border-radius: 1em;
+  padding-inline: 5px;
+}
