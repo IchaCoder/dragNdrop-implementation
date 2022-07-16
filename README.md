@@ -1,7 +1,21 @@
-<!-- @format -->
+# Drag and drop with ReactJs
 
-Clone this repo
+> Drag and drop implemented using react beautiful DnD library
 
-`npm install`
+**You can clone this app to experiment on**
 
-`npm start` to see if this code works
+_Past the following commands in your terminal_
+
+```bash
+  git clone <link to repo>
+  
+  cd <repo name>
+  
+  npm install (make sure a recommended version of node is installed in your system)
+  
+  npm start
+  
+  
+  !!!Happy hacking🎉🎉
+```
+
